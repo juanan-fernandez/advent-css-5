@@ -1,0 +1,12 @@
+.list-item {
+   color: #4E4E4E;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   gap: 1rem;
+}
+
+.list-item--done {
+   color:#C9CDD1;
+   text-decoration: line-through;
+}
