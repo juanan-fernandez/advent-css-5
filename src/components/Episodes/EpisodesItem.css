@@ -10,3 +10,7 @@
    color:#C9CDD1;
    text-decoration: line-through;
 }
+
+.list-item img { 
+   cursor: pointer;
+}

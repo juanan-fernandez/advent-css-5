@@ -17,7 +17,7 @@ const EpisodesItem = ({ episode, onClickCheck }) => {
 	);
 	return (
 		<div className={style}>
-			<div>{img}</div>
+			{img}
 			<div>
 				{id} || {title}
 			</div>

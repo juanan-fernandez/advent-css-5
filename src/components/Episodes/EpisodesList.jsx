@@ -33,8 +33,8 @@ const EpisodesList = () => {
 	);
 	return (
 		<div className='container'>
+			<img className='cover' src='./images/podcast-cover.png' alt='logo' />
 			<div className='listAndImg-container'>
-				<img className='cover' src='./images/podcast-cover.png' alt='logo' />
 				<div>{playListInfo}</div>
 			</div>
 		</div>
